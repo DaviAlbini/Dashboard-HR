@@ -23,4 +23,4 @@ Dashboard interativo desenvolvido em Power BI, com foco em análises estratégic
 
 ## 📞 Contato:
 - [LinkedIn](https://www.linkedin.com/in/davialbini/)
-- davialbini@gmail.com
+- davialb23@gmail.com
